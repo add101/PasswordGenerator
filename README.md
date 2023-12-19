@@ -7,4 +7,4 @@ The challenge was create a password generator using Javascript, using the a prom
 
 ## Link to Deployed Site:
 
-[https://add101.github.io/Console-Finances/](https://add101.github.io/PasswordGenerator/)https://add101.github.io/PasswordGenerator/
+(https://add101.github.io/PasswordGenerator/)https://add101.github.io/PasswordGenerator/
